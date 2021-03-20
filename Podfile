@@ -7,6 +7,7 @@ target 'Instagram' do
   pod 'Parse'
   pod 'AlamofireImage'
   pod 'SwiftHEXColors'
+  pod 'MessageInputBar'
 
   # Pods for Instagram
 
